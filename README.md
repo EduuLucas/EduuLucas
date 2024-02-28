@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">A passionate fullstack developer from brazil! I'm in love with software development since my first contact in college. I love crafting seamless, cross-platform experiences that delight users. Not here to write lines of code; I'm here to solve problems and bring your dreams to life. Let's connect and create exceptional solutions together!</h3>
+<h3 align="left">A passionate fullstack developer from brazil! I'm in love with software development since my first contact in college. I love crafting seamless, cross-platform experiences that delight users. Not here to write lines of code; I'm here to solve problems and bring your dreams to life. Let's connect and create exceptional solutions together!</h3>
 
 - 🌱 I’m currently learning **VueJS, NestJS and Tailwind.**
 
